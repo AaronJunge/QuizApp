@@ -1,2 +1,2 @@
-Die Quiz App ist eine App mit der Karteikarten erstellt werden kann und diese auch mit einer Quiz funktion erlenrt werden können.
-The Quiz App is a App, in which you can create Flashcards and also learn them with the Quiz function.
+Die Quiz App ist eine App mit der Karteikarten erstellt werden kann und diese auch mit einer Quiz funktion erlenrt werden können. Eine Vorschau der App ist auf den Screenshots zu sehen, welche sich im Repository befindet.
+The Quiz App is a App, in which you can create Flashcards and also learn them with the Quiz function. A preview of the App can be found in the Screenshots, which are located in the Repository.
